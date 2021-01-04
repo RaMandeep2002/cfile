@@ -1,3 +1,6 @@
+/*
+In this code we simple printed the hello world
+*/
 #include <stdio.h>
 
 int main()
