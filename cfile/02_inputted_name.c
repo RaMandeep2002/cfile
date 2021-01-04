@@ -1,3 +1,6 @@
+/*
+In this code we have inputted the name.
+*/
 #include <stdio.h>
 #include <conio.h>
 int main()
