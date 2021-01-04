@@ -1,3 +1,6 @@
+/*
+Here we have simple add the two number.
+*/
 #include <stdio.h>
 
 int main()
