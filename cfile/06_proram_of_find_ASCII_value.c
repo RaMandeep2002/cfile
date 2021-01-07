@@ -1,3 +1,6 @@
+/*
+In this program we have to find the ACSII value of character.
+*/
 #include <stdio.h>
 int main()
 {
